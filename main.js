@@ -18,3 +18,5 @@ console.log(c);
 
 var vivek={name:"vivek ranjan sahoo",age:20,email:"Vivekranjan@gmail.com",};
 console.log(vivek.name);
+
+//Day -3
