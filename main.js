@@ -54,4 +54,18 @@ var users=(a,b)=>{
 
 users(2,4);
 
+
+
+Day -4
+---------------------------------------------
+
 */
+
+var user=(a,b)=>{
+    var c=a+b;
+    console.log("the addition of two number"+c);
+}
+user(2,5);
+
+var name="vivek";
+module.exports.abc=name;
