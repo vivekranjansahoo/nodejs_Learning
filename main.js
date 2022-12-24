@@ -59,7 +59,7 @@ users(2,4);
 Day -4
 ---------------------------------------------
 
-*/
+
 
 var user=(a,b)=>{
     var c=a+b;
@@ -69,3 +69,17 @@ user(2,5);
 
 var name="vivek";
 module.exports.abc=name;
+
+
+-------------------------------------------
+Day-6
+-----------
+
+module
+
+var cal=require("./addition");
+console.log(cal.addition());
+
+console.log(cal.val);
+
+*/
